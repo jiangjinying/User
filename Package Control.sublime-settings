@@ -5,8 +5,14 @@
 	],
 	"installed_packages":
 	[
+		"AutoFileName",
+		"Autoprefixer",
+		"Emmet",
 		"JavaScriptNext - ES6 Syntax",
+		"JsFormat",
+		"LESS",
 		"Package Control",
+		"SideBarEnhancements",
 		"SublimeCodeIntel"
 	]
 }
